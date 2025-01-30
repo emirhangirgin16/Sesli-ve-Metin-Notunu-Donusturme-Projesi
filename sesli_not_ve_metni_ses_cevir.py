@@ -51,4 +51,3 @@ metni_sese_cevir_butonu=tk.Button(app,text="Metin giriniz",command=metin_notu_al
 metni_sese_cevir_butonu.pack(pady=10)
 app.mainloop()
 
-
